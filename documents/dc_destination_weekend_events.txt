@@ -1,0 +1,11 @@
+Title: Destination DC Weekend Events
+URL: https://washington.org/find-dc-listings/dc-events
+Category: events
+Region: Washington DC
+Retrieved: 2026-06-07
+
+Destination DC provides a Washington, DC events page for current events, festivals, exhibits, concerts, theater, holiday celebrations, and things happening now. The page includes a section called "Things to Do This Weekend in Washington, DC" with end-of-week picks for June 5-7, 2026.
+
+This source is useful for questions about what is happening in DC this weekend. It should be used when a user asks for current weekend events, but the answer should avoid claiming an event is free unless the retrieved text or another source explicitly says the activity is free.
+
+The page also points users to monthly DC event lists and summer events, including festivals, exhibits, concerts, museum events, and cultural activities. For student weekend planning, this source helps identify current DC activities, while price-sensitive questions should be paired with free-admission or free-event sources.

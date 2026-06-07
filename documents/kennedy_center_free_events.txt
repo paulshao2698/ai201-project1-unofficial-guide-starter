@@ -1,0 +1,11 @@
+Title: Kennedy Center Free Events and Millennium Stage
+URL: https://www.kennedy-center.org/whats-on/free/
+Category: free performances
+Region: Washington DC
+Retrieved: 2026-06-07
+
+The Kennedy Center has a free-events page and a Millennium Stage program. The Millennium Stage offers free performances in the Grand Foyer on Wednesdays through Saturdays at 6 p.m., with livestream options also available.
+
+This source is useful for students looking for free evening performances in DC. Because performances change by date, the answer should recommend checking the current Millennium Stage schedule before going. It is especially useful when a user asks for free things to do this weekend, free concerts, or indoor evening activities.
+
+This source supports the recommendation of Kennedy Center free performances, but the system should only name a specific performer if that performer appears in the retrieved source text.

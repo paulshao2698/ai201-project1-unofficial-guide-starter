@@ -1,0 +1,206 @@
+[
+  {
+    "chunk_id": "burke_lake_boating.txt::chunk_0",
+    "text": "Burke Lake Park has a marina and offers seasonal boat rentals. The lake is used for recreational boating and fishing. Visitors should check Fairfax County Park Authority rules before planning a trip.\n\nBoat rentals may include rowboats, canoes, kayaks, and pedal boats depending on the season and availability. Weekend visitors should expect more people during warm weather, especially in the afternoon.\n\nThis source is useful for questions about whether Burke Lake is beginner-friendly, what rentals are available, and what rules apply to boating.",
+    "metadata": {
+      "filename": "burke_lake_boating.txt",
+      "title": "Fairfax County Burke Lake Boating",
+      "url": "https://www.fairfaxcounty.gov/parks/burke-lake/boating",
+      "category": "boating",
+      "region": "Northern Virginia",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "dc_destination_weekend_events.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nDestination DC provides a Washington, DC events page for current events, festivals, exhibits, concerts, theater, holiday celebrations, and things happening now. The page includes a section called \"Things to Do This Weekend in Washington, DC\" with end-of-week picks for June 5-7, 2026.\n\nThis source is useful for questions about what is happening in DC this weekend. It should be used when a user asks for current weekend events, but the answer should avoid claiming an event is free unless the retrieved text or another source explicitly says the activity is free.",
+    "metadata": {
+      "filename": "dc_destination_weekend_events.txt",
+      "title": "Destination DC Weekend Events",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "category": "events",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "dc_destination_weekend_events.txt::chunk_1",
+    "text": "The page also points users to monthly DC event lists and summer events, including festivals, exhibits, concerts, museum events, and cultural activities. For student weekend planning, this source helps identify current DC activities, while price-sensitive questions should be paired with free-admission or free-event sources.",
+    "metadata": {
+      "filename": "dc_destination_weekend_events.txt",
+      "title": "Destination DC Weekend Events",
+      "url": "https://washington.org/find-dc-listings/dc-events",
+      "category": "events",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "downtowndc_free_events.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nDowntownDC maintains an events calendar with public events in downtown Washington, DC. The calendar includes recurring and date-specific events such as DowntownDC Live, FRESHFARM markets, public tours, arts events, outdoor movies, and seasonal activities.",
+    "metadata": {
+      "filename": "downtowndc_free_events.txt",
+      "title": "DowntownDC Events Calendar and Free Events",
+      "url": "https://www.downtowndc.org/events/",
+      "category": "free events",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "downtowndc_free_events.txt::chunk_1",
+    "text": "Several DowntownDC event listings explicitly identify free activities. For example, DowntownDC Live at Anthem Row runs on Thursdays in June and July 2026 and is listed as FREE. The Funset Rooftop Summer Launch Event on June 7, 2026 at Sandlot Downtown is listed with a FREE RSVP ticket. Other event entries may be free, paid, or require registration, so users should check the individual listing before going.\n\nThis source is useful for answering \"free things to do in DC this weekend\" because it contains both DC location context and free-event language.",
+    "metadata": {
+      "filename": "downtowndc_free_events.txt",
+      "title": "DowntownDC Events Calendar and Free Events",
+      "url": "https://www.downtowndc.org/events/",
+      "category": "free events",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "fxva_rainy_day.txt::chunk_0",
+    "text": "Fairfax County has many indoor activities for rainy days, hot weather, or cold weekends. Options may include museums, shopping centers, entertainment venues, indoor sports, cafes, and cultural attractions.\n\nThis source is useful for questions about what two people can do indoors during a heat wave or bad weather in Northern Virginia.",
+    "metadata": {
+      "filename": "fxva_rainy_day.txt",
+      "title": "Fairfax County Rainy Day Activities",
+      "url": "https://www.fxva.com/blog/post/rainy-day-in-fairfax-county/",
+      "category": "indoor activity",
+      "region": "Northern Virginia",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "great_falls_nps.txt::chunk_0",
+    "text": "Great Falls Park is a National Park Service site in Northern Virginia. It is known for waterfall views, hiking trails, overlooks, and rocky terrain.\n\nThe park can become crowded on weekends and holidays. Parking may fill during busy times, so visitors should plan ahead and arrive early.\n\nThis source is useful for comparing Great Falls with Burke Lake for hiking, trail running, scenery, parking, and weekend crowds.",
+    "metadata": {
+      "filename": "great_falls_nps.txt",
+      "title": "National Park Service Great Falls Park Basic Information",
+      "url": "https://www.nps.gov/grfa/planyourvisit/basicinfo.htm",
+      "category": "hiking",
+      "region": "Northern Virginia",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "kennedy_center_free_events.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nThe Kennedy Center has a free-events page and a Millennium Stage program. The Millennium Stage offers free performances in the Grand Foyer on Wednesdays through Saturdays at 6 p.m., with livestream options also available.\n\nThis source is useful for students looking for free evening performances in DC. Because performances change by date, the answer should recommend checking the current Millennium Stage schedule before going. It is especially useful when a user asks for free things to do this weekend, free concerts, or indoor evening activities.",
+    "metadata": {
+      "filename": "kennedy_center_free_events.txt",
+      "title": "Kennedy Center Free Events and Millennium Stage",
+      "url": "https://www.kennedy-center.org/whats-on/free/",
+      "category": "free performances",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "kennedy_center_free_events.txt::chunk_1",
+    "text": "This source supports the recommendation of Kennedy Center free performances, but the system should only name a specific performer if that performer appears in the retrieved source text.",
+    "metadata": {
+      "filename": "kennedy_center_free_events.txt",
+      "title": "Kennedy Center Free Events and Millennium Stage",
+      "url": "https://www.kennedy-center.org/whats-on/free/",
+      "category": "free performances",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "library_congress_events.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nThe Library of Congress events calendar includes public events such as concerts and performances, courses and workshops, exhibits and tours, film and video screenings, lectures and symposia, meetings and conferences, and special events. Events can be filtered by date, category, and location, including main campus, off-site locations, and online events.\n\nThe Library of Congress visiting page points users to the public events calendar for upcoming onsite and online programs. Destination DC also describes the Library of Congress Thomas Jefferson Building as free to visit, with free timed-entry passes required.",
+    "metadata": {
+      "filename": "library_congress_events.txt",
+      "title": "Library of Congress Events and Visiting Information",
+      "url": "https://www.loc.gov/events/",
+      "category": "events",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "library_congress_events.txt::chunk_1",
+    "text": "This source is useful for answering DC weekend activity questions, especially when the user wants free or educational options. The system should mention that timed-entry passes or registration may be required.",
+    "metadata": {
+      "filename": "library_congress_events.txt",
+      "title": "Library of Congress Events and Visiting Information",
+      "url": "https://www.loc.gov/events/",
+      "category": "events",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "national_gallery_free_visit.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nThe National Gallery of Art plan-your-visit page states that admission is always free. Visitors do not need passes or tickets to enjoy the galleries, exhibitions, or guided tours, although some events require free registration.\n\nThe National Gallery of Art is open daily from 10:00 a.m. to 5:00 p.m. The Sculpture Garden has extended evening hours on selected summer days. This makes the National Gallery a reliable free or low-cost DC activity for students, especially for indoor plans during hot, rainy, or cold weather.",
+    "metadata": {
+      "filename": "national_gallery_free_visit.txt",
+      "title": "National Gallery of Art Free Admission",
+      "url": "https://www.nga.gov/visit",
+      "category": "free museums",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "national_gallery_free_visit.txt::chunk_1",
+    "text": "This source is useful for answering free DC activity questions because it explicitly supports the price claim. If recommending a specific event or tour, check whether registration is required.",
+    "metadata": {
+      "filename": "national_gallery_free_visit.txt",
+      "title": "National Gallery of Art Free Admission",
+      "url": "https://www.nga.gov/visit",
+      "category": "free museums",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "nova_indoor_heat_wave.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nIndoor activities in Northern Virginia are good during a heat wave because they provide air-conditioned alternatives to outdoor parks, trails, and lakes. Fairfax County and Northern Virginia indoor guides recommend options such as museums, history attractions, shopping centers, indoor entertainment venues, trampoline parks, arcades, movie theaters, cafes, bookstores, escape rooms, and mall walking.",
+    "metadata": {
+      "filename": "nova_indoor_heat_wave.txt",
+      "title": "Northern Virginia Indoor Activities for Heat Waves and Rainy Days",
+      "url": "https://www.fxva.com/seasons-holidays/winter/winter-indoor-activities/",
+      "category": "indoor",
+      "region": "Northern Virginia",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "nova_indoor_heat_wave.txt::chunk_1",
+    "text": "Examples of practical student-friendly indoor activities include visiting the Steven F. Udvar-Hazy Center, the National Museum of the United States Army, Tysons Corner Center, Fair Oaks Mall, indoor entertainment venues, coffee shops, and casual dining areas. These options work well for two people or groups because they are flexible, weather-safe, and easier to plan than outdoor activities during extreme heat.\n\nThis source should be used for questions about heat waves, rainy days, indoor activities, or weather-safe weekend plans in Northern Virginia.",
+    "metadata": {
+      "filename": "nova_indoor_heat_wave.txt",
+      "title": "Northern Virginia Indoor Activities for Heat Waves and Rainy Days",
+      "url": "https://www.fxva.com/seasons-holidays/winter/winter-indoor-activities/",
+      "category": "indoor",
+      "region": "Northern Virginia",
+      "chunk_index": 1
+    }
+  },
+  {
+    "chunk_id": "smithsonian_free_museums.txt::chunk_0",
+    "text": "Retrieved: 2026-06-07\n\nThe Smithsonian museum visit page states that admission is free at all Smithsonian museums except Cooper Hewitt in New York City. Most Smithsonian museums are open every day of the year except December 25.\n\nFor a student asking for free things to do in DC, Smithsonian museums are a strong recommendation because they are free, indoor, and located across the National Mall, near the National Mall, elsewhere in DC, and Virginia. They are also useful during heat waves or bad weather because museums are indoor activities.",
+    "metadata": {
+      "filename": "smithsonian_free_museums.txt",
+      "title": "Smithsonian Museums Free Admission",
+      "url": "https://www.si.edu/visit/museums",
+      "category": "free museums",
+      "region": "Washington DC",
+      "chunk_index": 0
+    }
+  },
+  {
+    "chunk_id": "smithsonian_free_museums.txt::chunk_1",
+    "text": "This source supports general free DC recommendations, but it does not by itself provide a complete current weekend event schedule. If the question asks \"this weekend,\" pair this source with current event calendar sources.",
+    "metadata": {
+      "filename": "smithsonian_free_museums.txt",
+      "title": "Smithsonian Museums Free Admission",
+      "url": "https://www.si.edu/visit/museums",
+      "category": "free museums",
+      "region": "Washington DC",
+      "chunk_index": 1
+    }
+  }
+]

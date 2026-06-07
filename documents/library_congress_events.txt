@@ -1,0 +1,11 @@
+Title: Library of Congress Events and Visiting Information
+URL: https://www.loc.gov/events/
+Category: events
+Region: Washington DC
+Retrieved: 2026-06-07
+
+The Library of Congress events calendar includes public events such as concerts and performances, courses and workshops, exhibits and tours, film and video screenings, lectures and symposia, meetings and conferences, and special events. Events can be filtered by date, category, and location, including main campus, off-site locations, and online events.
+
+The Library of Congress visiting page points users to the public events calendar for upcoming onsite and online programs. Destination DC also describes the Library of Congress Thomas Jefferson Building as free to visit, with free timed-entry passes required.
+
+This source is useful for answering DC weekend activity questions, especially when the user wants free or educational options. The system should mention that timed-entry passes or registration may be required.
